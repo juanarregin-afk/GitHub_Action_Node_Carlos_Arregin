@@ -25,4 +25,4 @@ jobs:
         run: npm test
 
       - name: Finaliza WorkFlow
-        run: exho OK
+        run: echo OK
